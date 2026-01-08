@@ -22,7 +22,6 @@ def ingest_file(path: str):
     doc_id = path.replace("\\", "/")
     title = os.path.splitext(os.path.basename(path))[0]
 
-    # Try to find a Link: line as url
     url = ""
     with open(path, "r", encoding="utf-8") as f:
         text = f.read().strip()
