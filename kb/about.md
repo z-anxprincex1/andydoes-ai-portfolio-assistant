@@ -1,2 +1,1 @@
-Anand Prince Purty is a software developer and AI enthusiast who builds practical tools and AI systems.
-He is pursuing an MS in Computer Science (AI/ML track) at the University at Buffalo (SUNY).
+Hey! I'm a Software developer and AI enthusiast who enjoys building practical tools and systems that solve real-world problems. I work across cloud platforms, machine learning pipelines, and data-driven applications.
