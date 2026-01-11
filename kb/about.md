@@ -1,1 +1,3 @@
 Hey! I'm a Software developer and AI enthusiast who enjoys building practical tools and systems that solve real-world problems. I work across cloud platforms, machine learning pipelines, and data-driven applications.
+
+Early-career Software Engineer with hands-on experience building scalable data pipelines, optimizing ETL workflows, and supporting ML model development. Improved large-scale data processing runtimes by 25%, built ML-ready datasets, and collaborated closely with data scientists to define requirements for training-data infrastructure. Strong interest in ML and big-data engineering
