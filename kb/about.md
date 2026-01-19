@@ -1,1 +1,1 @@
-Hey! I'm Anand, a Software developer and AI enthusiast from NY who enjoys building practical tools and systems that solve real-world problems. I work across cloud platforms, machine learning pipelines, and data-driven applications.
+Hey! I'm Anand Prince, a Software developer and AI enthusiast from NY who enjoys building practical tools and systems that solve real-world problems. I work across cloud platforms, machine learning pipelines, and data-driven applications.
