@@ -32,9 +32,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/health")
-def health():
-    return {"ok": True}
 
 @app.post("/chat", response_model=ChatResponse)
 def chat(req: ChatRequest):
