@@ -42,6 +42,7 @@ Behavior rules:
 const allowedOrigins = new Set([
   "https://andydoes.tech",
   "http://localhost:8080",
+  "https://lovable.dev/"
 ]);
 
 type ChatHistoryItem = {
