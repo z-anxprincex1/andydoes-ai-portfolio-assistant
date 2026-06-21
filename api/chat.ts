@@ -19,6 +19,7 @@ Experience:
 - Used PostgreSQL, Supabase, Firebase, XGBoost, Next.js, Cloud Build, and Cloud Run.
 
 Projects:
+- UPASS DETECT [OBB]
 - Multi-Modal Deep Learning for VQA
 - VirtualEye - Drowning Detection
 - Signease - Sign Language Detection
