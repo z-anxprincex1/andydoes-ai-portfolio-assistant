@@ -1,4 +1,7 @@
 {
   "name": "andydoes-chat-api",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^26.0.1"
+  }
 }
